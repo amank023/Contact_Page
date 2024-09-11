@@ -6,22 +6,22 @@ This is a simple Contact App developed using React and Vite. The app allows user
 
 #Features
 
-Add Contact: Users can add a new contact by providing a name and email address.
-Edit Contact: Allows users to modify the details of an existing contact.
-Delete Contact: Users can remove a contact from the list.
-Search Contact: Enables users to search contacts by name or email address.
-Form Validation: Uses Yup and Formik to handle form validation.
+Add Contact: Users can add a new contact by providing a name and email address.<br>
+Edit Contact: Allows users to modify the details of an existing contact.<br>
+Delete Contact: Users can remove a contact from the list.<br>
+Search Contact: Enables users to search contacts by name or email address.<br>
+Form Validation: Uses Yup and Formik to handle form validation.<br>
 
 #Technologies Used
 
-React: Frontend library for building user interfaces.
-Vite: Fast development build tool.
-TailwindCSS: Utility-first CSS framework.
-Formik: Form management library for React.
-Yup: Form validation library.
-Firebase: For managing backend and storing contact information.
-React Icons: For adding icons to the UI.
-React Toastify: For displaying toast notifications.
+React: Frontend library for building user interfaces.<br>
+Vite: Fast development build tool.<br>
+TailwindCSS: Utility-first CSS framework.<br>
+Formik: Form management library for React.<br>
+Yup: Form validation library.<br>
+Firebase: For managing backend and storing contact information.<br>
+React Icons: For adding icons to the UI.<br>
+React Toastify: For displaying toast notifications.<br>
 
 Currently, two official plugins are available:
 
